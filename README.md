@@ -1,4 +1,4 @@
-# Machine learning for photovoltaic material properties predictions  
+# PCE prediction of OPV materials using Machine Learning 
 
 ## Introduction
 
